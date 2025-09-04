@@ -1,0 +1,14 @@
+com\example\boxdelivery\dto\CreateBoxRequest.class
+com\example\boxdelivery\exception\BadRequestException.class
+com\example\boxdelivery\entity\Item.class
+com\example\boxdelivery\entity\BoxState.class
+com\example\boxdelivery\exception\NotFoundException.class
+com\example\boxdelivery\dto\LoadItemsRequest.class
+com\example\boxdelivery\exception\GlobalExceptionHandler.class
+com\example\boxdelivery\repository\BoxRepository.class
+com\example\boxdelivery\repository\ItemRepository.class
+com\example\boxdelivery\dto\ItemDTO.class
+com\example\boxdelivery\controller\BoxController.class
+com\example\boxdelivery\service\BoxService.class
+com\example\boxdelivery\entity\Box.class
+com\example\boxdelivery\BoxDeliveryApplication.class

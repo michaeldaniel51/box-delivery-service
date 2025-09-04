@@ -1,0 +1,14 @@
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\exception\GlobalExceptionHandler.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\repository\BoxRepository.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\entity\Box.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\entity\Item.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\controller\BoxController.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\dto\CreateBoxRequest.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\dto\ItemDTO.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\BoxDeliveryApplication.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\exception\BadRequestException.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\repository\ItemRepository.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\service\BoxService.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\dto\LoadItemsRequest.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\entity\BoxState.java
+C:\Users\adeso\Downloads\box-delivery\src\main\java\com\example\boxdelivery\exception\NotFoundException.java
